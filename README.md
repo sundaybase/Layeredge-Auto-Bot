@@ -18,7 +18,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/wojacks/Layeredge-Auto-Bot.git
+    git clone https://github.com/sundaybase/Layeredge-Auto-Bot.git
     cd Layeredge-Auto-Bot
     ```
 
