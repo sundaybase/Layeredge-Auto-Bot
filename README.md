@@ -1,7 +1,8 @@
 # Layer Edge Auto Bot
 
 - website : https://dashboard.layeredge.io/
-
+- mint pass
+  
 ## Features
 
 - **Auto Run Node**
